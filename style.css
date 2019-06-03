@@ -1,0 +1,12 @@
+.bg-pp {
+	background: none;
+    border: 1px solid grey;
+    width: 150px;
+    height: 30px
+}
+.bg-ppp {
+	background: none;
+    border: 1px solid grey;
+    width: 200px;
+    height: 50px
+}
